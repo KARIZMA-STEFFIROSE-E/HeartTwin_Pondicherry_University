@@ -1,0 +1,4 @@
+Model,ROC_AUC,Positive_Recall,Positive_F1,Role
+Logistic Regression,0.356,0.14,0.09,Baseline ML experiment
+Random Forest,,0.0,0.0,Nonlinear ML experiment
+GRU,0.347,0.0,0.0,Temporal deep-learning experiment

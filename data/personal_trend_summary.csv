@@ -1,0 +1,11 @@
+patient_id,abnormal_days,total_abnormal_signals,avg_hr_change,avg_hrv_change,avg_sleep_change,avg_steps_change,avg_spo2_change,avg_weight_change,dominant_signals,personalization_status
+PATIENT_001,4,4,-0.88,8.16,-0.02,2.84,-0.25,0.13,No persistent abnormal signal,Emerging deviation
+PATIENT_002,4,8,7.72,-19.89,1.0,4.97,-0.41,-0.07,No persistent abnormal signal,Emerging deviation
+PATIENT_003,4,9,6.64,-7.55,-6.34,-35.54,0.05,0.08,Activity,Emerging deviation
+PATIENT_004,3,3,1.17,5.16,2.19,-4.2,0.15,0.01,No persistent abnormal signal,Emerging deviation
+PATIENT_005,4,4,3.62,-0.66,-1.95,-15.04,-0.37,2.06,No persistent abnormal signal,Emerging deviation
+PATIENT_006,2,3,-1.8,-3.96,-2.97,-0.2,-0.2,-0.07,No persistent abnormal signal,Emerging deviation
+PATIENT_007,5,11,6.57,-13.24,-1.86,-9.8,-1.06,1.04,SpO2,Persistent deviation
+PATIENT_008,2,3,2.47,1.59,-8.84,0.73,-0.14,0.04,No persistent abnormal signal,Emerging deviation
+PATIENT_009,5,8,2.8,-26.12,-6.16,-0.71,0.07,-0.07,HRV,Persistent deviation
+PATIENT_010,0,0,0.77,-3.01,6.02,-5.17,0.47,-0.3,No persistent abnormal signal,Stable personal baseline

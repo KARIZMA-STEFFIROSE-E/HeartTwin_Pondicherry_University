@@ -1,0 +1,5 @@
+component,status,reason,primary_system
+Logistic Regression,Evaluated,Baseline ML model; limited generalization.,False
+Random Forest,Evaluated,Nonlinear ML experiment; poor positive-class detection.,False
+GRU,Evaluated,Temporal deep-learning experiment; ROC-AUC 0.347.,False
+Digital Twin Risk Engine,Selected,"Interpretable, personalized and suitable for prototype monitoring.",True

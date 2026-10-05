@@ -1,0 +1,11 @@
+patient_id,current_steps,simulated_steps,personal_baseline_steps,simulated_deviation_percent,current_risk_score,simulated_risk_score,current_risk_category,simulated_risk_category,risk_change
+PATIENT_001,5848.0,4093.6,5801.53,-29.44,20.0,28.0,Moderate,Moderate,8.0
+PATIENT_002,6819.0,4773.3,6535.73,-26.97,45.0,53.0,Elevated,Elevated,8.0
+PATIENT_003,1000.0,700.0,4625.27,-84.87,38.0,53.0,Moderate,Elevated,15.0
+PATIENT_004,4751.0,3325.7,6230.97,-46.63,8.0,23.0,Low,Moderate,15.0
+PATIENT_005,5579.0,3905.3,6688.43,-41.61,24.0,39.0,Moderate,Moderate,15.0
+PATIENT_006,4935.0,3454.5,5275.17,-34.51,0.0,15.0,Low,Low,15.0
+PATIENT_007,6318.0,4422.6,7658.1,-42.25,58.0,73.0,Elevated,High,15.0
+PATIENT_008,8379.0,5865.3,7114.73,-17.56,0.0,8.0,Low,Low,8.0
+PATIENT_009,7280.0,5096.0,6749.5,-24.5,35.0,43.0,Moderate,Elevated,8.0
+PATIENT_010,5158.0,3610.6,5891.57,-38.72,10.0,25.0,Low,Moderate,15.0

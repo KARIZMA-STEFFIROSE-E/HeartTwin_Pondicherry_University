@@ -1,0 +1,11 @@
+patient_id,age,sex,bmi,hypertension,diabetes,smoking,previous_cardiac_event,cholesterol
+PATIENT_001,47,male,23.7,1,0,0,0,159.2
+PATIENT_002,74,male,23.1,1,0,0,0,170.9
+PATIENT_003,41,male,24.6,1,1,1,1,203.0
+PATIENT_004,40,male,23.9,1,0,0,0,236.1
+PATIENT_005,61,male,32.2,0,0,0,0,204.3
+PATIENT_006,42,female,28.6,1,0,0,0,224.6
+PATIENT_007,63,male,31.3,1,0,0,0,238.7
+PATIENT_008,54,male,24.0,0,0,0,0,182.0
+PATIENT_009,57,male,24.0,1,1,0,0,184.2
+PATIENT_010,75,male,31.9,1,0,0,0,222.5

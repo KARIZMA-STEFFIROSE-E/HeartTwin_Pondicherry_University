@@ -1,0 +1,11 @@
+patient_id,date,top_signal_1,top_signal_2,top_signal_3,top_signal_summary
+PATIENT_001,2026-10-02,HRV ↓ 23.1%,None,None,HRV ↓ 23.1%; None; None
+PATIENT_002,2026-10-02,Resting HR ↑ 14.4%,SpO2 ↓ 2.1%,None,Resting HR ↑ 14.4%; SpO2 ↓ 2.1%; None
+PATIENT_003,2026-10-02,Activity ↓ 78.4%,Resting HR ↑ 15.4%,None,Activity ↓ 78.4%; Resting HR ↑ 15.4%; None
+PATIENT_004,2026-10-02,Activity ↓ 23.8%,None,None,Activity ↓ 23.8%; None; None
+PATIENT_005,2026-10-02,Weight ↑ 3.7%,None,None,Weight ↑ 3.7%; None; None
+PATIENT_006,2026-10-02,None,None,None,No major personalized deviations detected
+PATIENT_007,2026-10-02,HRV ↓ 27.4%,Sleep ↓ 25.4%,Resting HR ↑ 15.1%,HRV ↓ 27.4%; Sleep ↓ 25.4%; Resting HR ↑ 15.1%
+PATIENT_008,2026-10-02,None,None,None,No major personalized deviations detected
+PATIENT_009,2026-10-02,HRV ↓ 55.9%,Sleep ↓ 25.2%,None,HRV ↓ 55.9%; Sleep ↓ 25.2%; None
+PATIENT_010,2026-10-02,None,None,None,No major personalized deviations detected

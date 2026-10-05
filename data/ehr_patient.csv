@@ -1,0 +1,2 @@
+patient_id,gender,birth_date,hypertension,obesity_history,baseline_weight_kg,baseline_bmi,baseline_heart_rate,baseline_cholesterol,baseline_ldl,baseline_hdl,baseline_triglycerides
+731a0556-1e60-43b1-37be-060d576613b1,female,1974-04-20,1,1,77.4,29.05,79.3,165.93,88.08,50.38,137.35

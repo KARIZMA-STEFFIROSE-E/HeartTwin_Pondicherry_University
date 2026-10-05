@@ -1,0 +1,11 @@
+patient_id,date,age,sex,bmi,hypertension,diabetes,smoking,previous_cardiac_event,cholesterol,resting_hr,hrv,sleep_hours,steps,spo2,weight_kg,twin_risk_score,risk_category,risk_trajectory,risk_reasons,future_risk_score,future_risk_category
+PATIENT_001,2026-10-02,47,male,23.7,1,0,0,0,159.2,74.0,30.4,7.2,5848,97.7,80.6,20,Moderate,Stable,HRV decreased,28,Moderate
+PATIENT_002,2026-10-02,74,male,23.1,1,0,0,0,170.9,91.8,41.0,8.2,6819,95.1,68.2,45,Elevated,Stable,Resting HR increased; HRV slightly decreased; SpO2 decreased,60,High
+PATIENT_003,2026-10-02,41,male,24.6,1,1,1,1,203.0,88.7,67.3,5.8,1000,99.4,70.9,38,Moderate,Improving,Resting HR increased; Sleep slightly decreased; Activity decreased,41,Elevated
+PATIENT_004,2026-10-02,40,male,23.9,1,0,0,0,236.1,75.2,55.6,6.6,4751,97.0,70.9,8,Low,Stable,Activity slightly decreased,8,Low
+PATIENT_005,2026-10-02,61,male,32.2,0,0,0,0,204.3,74.8,63.6,7.0,5579,97.3,72.4,24,Moderate,Stable,Resting HR slightly increased; Activity slightly decreased; Weight slightly increased,32,Moderate
+PATIENT_006,2026-10-02,42,female,28.6,1,0,0,0,224.6,67.6,60.1,6.5,4935,98.7,89.8,0,Low,Stable,No significant deviations detected,0,Low
+PATIENT_007,2026-10-02,63,male,31.3,1,0,0,0,238.7,83.4,43.1,5.3,6318,97.5,90.3,58,Elevated,Stable,Resting HR increased; HRV decreased; Sleep decreased; Activity slightly decreased,73,High
+PATIENT_008,2026-10-02,54,male,24.0,0,0,0,0,182.0,81.3,67.1,7.2,8379,97.0,73.0,0,Low,Improving,No significant deviations detected,0,Low
+PATIENT_009,2026-10-02,57,male,24.0,1,1,0,0,184.2,71.6,17.2,5.6,7280,98.8,67.4,35,Moderate,Stable,HRV decreased; Sleep decreased,43,Elevated
+PATIENT_010,2026-10-02,75,male,31.9,1,0,0,0,222.5,71.5,43.2,7.4,5158,98.6,61.4,10,Low,Stable,HRV slightly decreased,10,Low
