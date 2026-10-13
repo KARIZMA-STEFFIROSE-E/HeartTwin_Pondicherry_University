@@ -444,17 +444,16 @@ The dashboard will open in the browser.
 
 ## 20. Team
 
-**Team Name:** [ADD TEAM NAME]
+**Team Name:** PU
 
 **College:** Pondicherry University
 
 **Project:** HeartTwin — Personalized Digital Twin for Early Heart-Failure Deterioration
 
 **Team Members:**
+- KARIZMA STEFFIROSE E
+- MOHITHA N.
 
-* [ADD MEMBER NAME]
-* [ADD MEMBER NAME]
-* [ADD MEMBER NAME]
 
 ---
 
