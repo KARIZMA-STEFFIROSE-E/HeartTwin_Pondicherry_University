@@ -426,15 +426,15 @@ The dashboard will open in the browser.
 
 ### Architecture Diagram
 
-`architecture.pdf`
+[View HeartTwin Architecture](docs/HeartTwin_Architecture.pdf)
 
 ### Presentation
 
-`[ADD PRESENTATION LINK]`
+[View HeartTwin Presentation](docs/HeartTwin_presentation.pdf)
 
 ### Demonstration Video
 
-`[ADD 20+ MINUTE VIDEO LINK]`
+[ADD 20+ MINUTE VIDEO LINK AFTER UPLOADING]
 
 ### GitHub Repository
 
