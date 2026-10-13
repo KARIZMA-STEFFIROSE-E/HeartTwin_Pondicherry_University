@@ -452,7 +452,7 @@ The dashboard will open in the browser.
 
 **Team Members:**
 - KARIZMA STEFFIROSE E
-- MOHITHA N.
+- MOHITHA N
 
 
 ---
